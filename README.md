@@ -13,4 +13,11 @@ pandas, matplotlib, fpdf e dataframe_image
 Para isso, rode no seu terminal a seguinte linha:
 pip install pandas matplotlib fpdf dataframe_image
 
+PASSO 1: rode o arquivo main.py
+PASSO 2: rode o arquivo create_pdf.py
+
+Seguindo esses passos, você terá o resultado previsto: a geração do relatório final em forma de PDF.
+
+
+
 Obrigado pela leitura e pela atenção :)
