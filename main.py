@@ -1,7 +1,5 @@
 import pandas as pd
 import matplotlib.pyplot as plt
-
-from fpdf import FPDF
 import dataframe_image as dfi
 
 

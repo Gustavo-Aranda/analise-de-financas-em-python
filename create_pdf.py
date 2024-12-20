@@ -1,5 +1,4 @@
 from fpdf import FPDF
-import dataframe_image as dfi
 import time
 
 
